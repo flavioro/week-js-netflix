@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+dist/
+.vscode/
+build/
+
+.env
+yarn.lock
+yarn-error.log
+package-lock.json
+
+# assets/timeline
