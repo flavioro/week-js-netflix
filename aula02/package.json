@@ -1,0 +1,14 @@
+{
+  "name": "week-js-expert",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "scripts": {
+    "test": "",
+    "assets": "npx http-server --cors -p 8081 assets/",
+    "dev": "npx http-server --cors -p 8080 public/"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
